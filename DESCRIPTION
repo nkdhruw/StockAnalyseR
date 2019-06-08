@@ -1,0 +1,13 @@
+Package: StockAnalyseR
+Type: Package
+Title: Analyses Performance Of Various Trading Strategies For Given Stock Symbol 
+Version: 0.1.0
+Author: Nobal Dhruw
+Maintainer: Nobal Dhruw <nkdhruw@gmail.com>
+Description: This packages helps you identify stocks which perform well on given trading strategy
+License: GPL-2
+Encoding: UTF-8
+LazyData: false
+Imports:
+    quantmod, stats, xts
+RoxygenNote: 6.1.1.9000
